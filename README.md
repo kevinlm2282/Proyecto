@@ -28,7 +28,7 @@ La implementacion de un sistema de informacion que permita el control del invent
 
 - Conformidad de los empleados y el jefe 
 
-## Factibilidad (Análisi de riesgos)
+## Factibilidad (Análisis de riesgos)
 ---
 ### Economia 
 
@@ -48,3 +48,16 @@ El sistema cuando este completado tendra con un costo 13.300 Bs.
 
 ### Historias de usuario 
 ---
+#### [001 - Registro de producto](https://github.com/kevinlm2282/Proyecto/issues/1)
+
+#### [002 - Registro de usuarios](https://github.com/kevinlm2282/Proyecto/issues/2)
+
+#### [003 - Inicio de Sesion](https://github.com/kevinlm2282/Proyecto/issues/3)
+
+#### [004 - Administracion de inventario](https://github.com/kevinlm2282/Proyecto/issues/4)
+
+#### [005 - Registrar entrega](https://github.com/kevinlm2282/Proyecto/issues/5)
+
+#### [006 - Reporte de entregas](https://github.com/kevinlm2282/Proyecto/issues/6)
+
+#### [007 -Reporte de productos mas vendidos](https://github.com/kevinlm2282/Proyecto/issues/7)
