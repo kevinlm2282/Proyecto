@@ -60,4 +60,14 @@ El sistema cuando este completado tendra con un costo 13.300 Bs.
 
 #### [006 - Reporte de entregas](https://github.com/kevinlm2282/Proyecto/issues/6)
 
-#### [007 -Reporte de productos mas vendidos](https://github.com/kevinlm2282/Proyecto/issues/7)
+#### [007 - Reporte de productos mas vendidos](https://github.com/kevinlm2282/Proyecto/issues/7)
+
+#### [008 - Administracion de entregas](https://github.com/kevinlm2282/Proyecto/issues/8)
+
+#### [009 - Eliminacion de usuarios](https://github.com/kevinlm2282/Proyecto/issues/9)
+
+#### [010 - Administracion de usuarios](https://github.com/kevinlm2282/Proyecto/issues/10)
+
+#### [011 - Reporte de usuarios](https://github.com/kevinlm2282/Proyecto/issues/11)
+
+#### [012 - Reporte del mueble mas entregado](https://github.com/kevinlm2282/Proyecto/issues/12)
